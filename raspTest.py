@@ -6,6 +6,6 @@ ledGreen = LED(17)
 
 while True:
     ledGreen.on()
-    sleep(1)
+    sleep(2)
     ledGreen.off()
    
